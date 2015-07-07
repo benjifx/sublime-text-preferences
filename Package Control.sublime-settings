@@ -1,0 +1,23 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"All Autocomplete",
+		"Autoprefixer",
+		"Emmet",
+		"GitGutter",
+		"Grails",
+		"JavaScriptNext - ES6 Syntax",
+		"LESS",
+		"Package Control",
+		"Pretty JSON",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"Theme - Spacegray",
+		"TrailingSpaces"
+	]
+}
